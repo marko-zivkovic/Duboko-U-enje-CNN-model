@@ -1,2 +1,2 @@
-CNN for handwriting recognition
+# CNN for handwriting recognition
 CNN model is in progress, not finished yet...
