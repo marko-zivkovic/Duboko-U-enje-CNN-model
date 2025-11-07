@@ -1,2 +1,2 @@
-# Duboko-U-enje-CNN-model
-CNN model za prepoznavanje rukopisa. 
+CNN for handwriting recognition
+CNN model is in progress, not finished yet...
